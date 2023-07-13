@@ -14,3 +14,6 @@ Some materials about system design
 ### Other Resources  
 - https://github.com/donnemartin/system-design-primer
 - [System Design by InterviewCamp](https://www.systemdesign.org)
+
+### Other Books  
+- https://github.com/riti2409/System_design
