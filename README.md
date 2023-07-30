@@ -10,7 +10,7 @@ Some materials about system design
 - https://www.youtube.com/c/GauravSensei/featured
 - https://www.youtube.com/playlist?list=PL12BCqE-Lp650Cg6FZW7SoZwN8Rw1WJI7
 - https://youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u
-- 
+
 - https://mega.nz/folder/dLIWkbCB#0MH4CBGlj0JUA6n00EbpDg
 - https://mega.nz/folder/oWAwAR5Y#WsyNfvNK_SkoFXS4WJKcTA
 - https://mega.nz/folder/RGBgHJIS#qOsdOXynX41S5TFOP0PqHg
